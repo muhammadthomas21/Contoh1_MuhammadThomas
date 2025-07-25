@@ -1,0 +1,25 @@
+DEMO FILE - BERKAS SYARAT BEASISWA
+=====================================
+
+Nama: Test User
+NIM: 12345678
+Jurusan: Teknik Informatika
+
+Dokumen ini adalah file demo untuk testing upload functionality
+pada sistem pendaftaran beasiswa Kampus Kuaja.
+
+File ini dapat digunakan untuk:
+- Testing upload berkas syarat
+- Verifikasi validasi file type
+- Testing maksimal file size
+
+Format file yang diizinkan:
+- PDF (.pdf)
+- Gambar (.jpg, .jpeg, .png)
+- Archive (.zip)
+- Dokumen (.doc, .docx)
+
+Ukuran maksimal: 5MB
+
+Tanggal: 2024-03-24
+Status: File Demo untuk Testing
